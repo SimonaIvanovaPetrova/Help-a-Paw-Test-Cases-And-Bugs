@@ -1,4 +1,4 @@
-# Help a Paw mobile appliction- test cases and bugs reports
+# Help a Paw mobile application- test cases and bugs reports
 Welcome to the defect reports and test cases repository for the website 
 # All defect reports and test cases are located in ''Issues''
 # About

@@ -1,5 +1,5 @@
-# Help a Paw mobile application- test cases and bugs reports
-Welcome to the defect reports and test cases repository for the website 
+# Test cases and bug reports
+Welcome to the defect reports and test cases repository for the mobile application Help a Paw 
 # All defect reports and test cases are located in ''Issues''
 # About
 This repository serves as a comprehensive collection of defect reports and test cases designed to highlight various issues encountered while using the website.
